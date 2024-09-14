@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace lab2
 {
-    public abstract class Shape
+    public abstract class Shape1
     {
         public virtual double CalculateArea()
         {
@@ -19,7 +19,7 @@ namespace lab2
         }
     }
 
-    public class Circle : Shape
+    public class Circle : Shape1
     {
         public double Radius { get; set; }
 
@@ -34,7 +34,7 @@ namespace lab2
         }
     }
 
-    public class Rectangle : Shape
+    public class Rectangle1 : Shape1
     {
         public double Width { get; set; }
         public double Height { get; set; }

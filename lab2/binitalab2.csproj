@@ -47,11 +47,17 @@
     <Compile Include="que2.cs" />
     <Compile Include="que3part1.cs" />
     <Compile Include="que3part2.cs" />
+    <Compile Include="que9.cs" />
+    <Compile Include="quesiton7.cs" />
     <Compile Include="question1.cs" />
+    <Compile Include="question10.cs" />
+    <Compile Include="question11.cs" />
     <Compile Include="question2.cs" />
     <Compile Include="question3.cs" />
     <Compile Include="question4.cs" />
     <Compile Include="question5.cs" />
+    <Compile Include="question6.cs" />
+    <Compile Include="question8.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
